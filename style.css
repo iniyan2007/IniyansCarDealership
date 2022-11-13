@@ -1,0 +1,95 @@
+.wholebody {
+    margin: 0;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+
+.contact {
+    text-align: right;
+    color: red;
+    top: 0%;
+    position: sticky;
+}
+
+.title1 {
+    top: 0;
+    position: sticky;
+    background-color: black;
+    color: red;
+    text-align: center;
+    padding: 10px;
+}
+
+.head1 {
+    background-color: black;
+    color: red;
+    text-align: center;
+    padding: 10px;
+    position: sticky;
+    top: 0;
+}
+
+.navbar {
+    background-color: black;
+    padding: 7px;
+}
+
+li {
+    padding: 7px;
+}
+
+.info {
+    padding: 0px;
+}
+
+div.gallery {
+    margin: 5px;
+    border: 1px solid black;
+    float: left;
+    width: 200px;
+    text-align: justify;
+}
+
+div.gallery:hover {
+    border: 1px solid #777;
+}
+
+div.gallery img {
+    width: 100%;
+    height: 150px;
+}
+
+div.desc {
+    padding: 15px;
+    text-align: center;
+}
+
+.form {
+    background-color: blanchedalmond;
+    text-align: center;
+    color: red;
+}
+
+.carimage1,
+.cardetailtable {
+    display: inline-block;
+}
+
+.bodyformat {
+    text-align: center;
+}
+
+.carpagebackground {
+    background-color: #777;
+}
+
+.backgroundindex {
+    background-color: blanchedalmond;
+    /* background-image: url("backgroundbuggati.jpg"); */
+    background-position: 100%;
+    color: black;
+}
+
+.cardetailtable {
+    text-align: justify;
+}
